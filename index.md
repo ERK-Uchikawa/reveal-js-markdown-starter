@@ -29,7 +29,7 @@ HTMLやMarkdown等からスライドを生成出来るフレームワーク
 
 ↓↓↓スターター用のリポジトリを作りました↓↓↓
 
-<a href="https://github.com/ERK-Uchikawa/reveal-js-markdown-starter">ERK-Uchikawa/reveal-js-markdown-starter: The HTML Presentation Framework</a>
+<a href="https://github.com/ERK-Uchikawa/reveal-js-markdown-starter" target="_blank">ERK-Uchikawa/reveal-js-markdown-starter: The HTML Presentation Framework</a>
 
 ---
 
